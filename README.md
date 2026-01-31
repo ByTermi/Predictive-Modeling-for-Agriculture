@@ -55,4 +55,6 @@ Este es un problema clásico de **selección de características**, donde el obj
 ---
 
 ## 👤 Contact / Contacto
-**Jaime Novillo Benito** 🔗 [LinkedIn Profile](https://www.linkedin.com/in/jaime-novillo-benito)
+**Jaime Novillo Benito**
+* 🔗 [LinkedIn Profile](https://www.linkedin.com/in/jaime-novillo-benito)
+* 📧 [jaimenovillobenito.trabajo@gmail.com](mailto:jaimenovillobenito.trabajo@gmail.com)
