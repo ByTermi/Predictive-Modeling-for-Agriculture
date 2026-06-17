@@ -47,4 +47,4 @@ Logistic Regression trained on **one feature at a time** (22-class crop label), 
 ## 👤 Contact
 **Jaime Novillo Benito**
 * 🔗 [LinkedIn Profile](https://www.linkedin.com/in/jaime-novillo-benito)
-* 📧 [jaimenovillobenito.trabajo@gmail.com](mailto:jaimenovillobenito.trabajo@gmail.com)
+* 📧 [jaimenovillobenito.job@gmail.com](mailto:jaimenovillobenito.job@gmail.com)
